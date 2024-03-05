@@ -2,10 +2,12 @@
 
 THE STARTER BLOC PROJECT FOR LEARN BLOC (ADD ISSUE FOR HELP ME IMPROVE IT)
 
+If using window you can install make though NodeJS tools, then use chocolate install make
+
 ## Feature demo
 
 Theme change, Theme extension -- (cubit)   <br>
-Assets gen (read make file)  ( <br> )
+Assets gen (flutter_gen)  <br>
 Locale gen (with selected input/output folder) -- (cubit)   <br>
 Fetch API placeholder (dio) -- (bloc)   <br>
 Router (Go_router)   <br>
