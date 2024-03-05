@@ -1,0 +1,39 @@
+{
+  "@@locale": "vi",
+   "hello": "Xin chào",
+  "@hello": {
+    "description": "test locate in preview"
+  },
+  "param": "Param truyền vào là {param}",
+  "@param": {
+    "description": "The text with param",
+    "placeholders": {
+      "param": {}
+    }
+  },
+  "appTitle": "Bloc Starter",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "themeTitle": "Theme",
+  "@themeTitle": {},
+  "systemThemeTitle": "System Theme",
+  "@systemThemeTitle": {},
+  "lightThemeTitle": "Light Theme",
+  "@lightThemeTitle": {},
+  "darkThemeTitle": "Dark Theme",
+  "@darkThemeTitle": {},
+  "yellowThemeTitle": "Yellow Theme",
+  "@yellowThemeTitle": {},
+  "experimentalThemeTitle": "Experimental Theme",
+  "@experimentalThemeTitle": {},
+
+  "tabHome": "Trang chủ",
+  "@tabHome": {},
+  "tabSettings": "Cài Đặt",
+  "@tabSettings": {},
+  "tabTheme": "Giao Diện",
+  "@tabTheme": {},
+  "cancelButtonTitle": "Hủy",
+  "@cancelButtonTitle": {}
+}
