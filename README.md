@@ -1,6 +1,7 @@
 # bloc_starter
 
 THE STARTER BLOC PROJECT FOR LEARN BLOC (ADD ISSUE FOR HELP ME IMPROVE IT)
+Inspire from bloc template from ashtanko, So i try write smaller version with support web too
 
 If using window you can install make though NodeJS tools, then use chocolate install make
 
