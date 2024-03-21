@@ -11,8 +11,7 @@ Assets gen (flutter_gen)  <br>
 Locale gen (with selected input/output folder) -- (cubit)   <br>
 Fetch API placeholder (dio) -- (bloc)   <br>
 Router (Go_router)   <br>
-Cache (hive)   <br>
 
 
 delete .dart_tool if gen assets  <br> 
-Bad state: Unable to generate package graph, no `path\bloc_starter\.dart_tool\flutter_gen\pubspec.yaml` found.  <br>
+Bad state: Unable to generate package graph, no `bloc_starter\.dart_tool\flutter_gen\pubspec.yaml` found.  <br>

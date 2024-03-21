@@ -82,11 +82,6 @@ class AppThemeData {
 
     return base.copyWith(
       brightness: Brightness.dark,
-      colorScheme: const ColorScheme.dark().copyWith(
-        primary: ColorName.accentDark,
-        secondary: ColorName.accentDark,
-      ),
-      primaryColor: ColorName.primaryDark,
       canvasColor: ColorName.canvasDark,
       scaffoldBackgroundColor: ColorName.backgroundDark,
       cardColor: ColorName.cardDark,

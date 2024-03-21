@@ -7,7 +7,7 @@ part 'post_state.dart';
 part 'post_event.dart';
 
 class PostBloc extends Bloc<PostEvent, PostState> {
-  var repository = PostRepository();
+  var repository = PostRepository.instance;
 
   PostBloc() : super(InitialState()) {
     on<InitPostsEvent>(_fetchPosts);
