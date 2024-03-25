@@ -14,5 +14,5 @@ Fetch API placeholder (dio) -- (bloc)   <br>
 Router (Go_router)   <br>
 
 
-delete .dart_tool if gen assets  <br> 
+delete .dart_tool if gen assets error  <br> 
 Bad state: Unable to generate package graph, no `bloc_starter\.dart_tool\flutter_gen\pubspec.yaml` found.  <br>
